@@ -1,0 +1,10 @@
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\bin\Debug\expe_ALERTE.exe.config
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\bin\Debug\expe_ALERTE.exe
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\bin\Debug\expe_ALERTE.pdb
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\obj\Debug\expe_ALERTE.csprojAssemblyReference.cache
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\obj\Debug\expe_ALERTE.Form1.resources
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\obj\Debug\expe_ALERTE.Properties.Resources.resources
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\obj\Debug\expe_ALERTE.csproj.GenerateResource.cache
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\obj\Debug\expe_ALERTE.csproj.CoreCompileInputs.cache
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\obj\Debug\expe_ALERTE.exe
+C:\Users\eggue\Documents\Cours\ENSC\2A\IHM\expe_ALERTE\expe_ALERTE\obj\Debug\expe_ALERTE.pdb
